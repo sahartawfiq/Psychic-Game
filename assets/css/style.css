@@ -1,0 +1,8 @@
+body {
+  background: url("../images/background.jpg");
+}
+h1,
+h2 {
+	font-color: #eee;
+	font-family: 'Kavivanar', cursive;
+}
